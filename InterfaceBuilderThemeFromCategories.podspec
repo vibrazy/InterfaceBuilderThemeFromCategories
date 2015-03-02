@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "InterfaceBuilderThemeFromCategories"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "Remove all boiler place styling code from your views/controllers"
   s.description      = <<-DESC
                        Remove all boiler place styling code from your views/controllers for setting Fonts and Colors dynamically from UIColor and UIFont categories. Do it all in Interface Builder, using some magic and IBDesinable
