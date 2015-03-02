@@ -1,6 +1,6 @@
 # InterfaceBuilderThemeFromCategories
 
-[![CI Status](http://img.shields.io/travis/Daniel Tavares/InterfaceBuilderThemeFromCategories.svg?style=flat)](https://travis-ci.org/Daniel Tavares/InterfaceBuilderThemeFromCategories)
+[![CI Status](http://img.shields.io/travis/Daniel Tavares/InterfaceBuilderThemeFromCategories.svg?style=flat)](https://travis-ci.org/vibrazy/InterfaceBuilderThemeFromCategories)
 [![Version](https://img.shields.io/cocoapods/v/InterfaceBuilderThemeFromCategories.svg?style=flat)](http://cocoadocs.org/docsets/InterfaceBuilderThemeFromCategories)
 [![License](https://img.shields.io/cocoapods/l/InterfaceBuilderThemeFromCategories.svg?style=flat)](http://cocoadocs.org/docsets/InterfaceBuilderThemeFromCategories)
 [![Platform](https://img.shields.io/cocoapods/p/InterfaceBuilderThemeFromCategories.svg?style=flat)](http://cocoadocs.org/docsets/InterfaceBuilderThemeFromCategories)
