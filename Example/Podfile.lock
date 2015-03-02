@@ -1,0 +1,14 @@
+PODS:
+  - InterfaceBuilderThemeFromCategories (0.1.0)
+
+DEPENDENCIES:
+  - InterfaceBuilderThemeFromCategories (from `../`)
+
+EXTERNAL SOURCES:
+  InterfaceBuilderThemeFromCategories:
+    :path: ../
+
+SPEC CHECKSUMS:
+  InterfaceBuilderThemeFromCategories: 613c9f4ba90186ff9ca0460ea881bacee470a5e8
+
+COCOAPODS: 0.35.0

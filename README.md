@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-Daniel Tavares, Daniel.Tavares@monitisecreate.com
+Daniel Tavares, vibrazy@hotmail.com
 
 ## License
 
